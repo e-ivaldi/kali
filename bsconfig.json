@@ -1,0 +1,11 @@
+{
+  "name" : "reasonml-project",
+  "sources" : "src",
+  "entries": [{
+    "backend": "native",
+    "main-module": "Service"
+  }],
+  "ocamlfind-dependencies": ["lwt"],
+  "refmt": 3
+}
+

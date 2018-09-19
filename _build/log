@@ -1,0 +1,4 @@
+# jbuilder runtest
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/dune05adf4.output 2> /dev/null
+$ /home/manu/.opam/4.03.0/bin/ocamlc.opt -config > /tmp/duneaa1e87.output
